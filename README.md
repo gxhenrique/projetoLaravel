@@ -22,21 +22,21 @@ php artisan serve
 
 Resoluão de algum problema com o gerador de voz
 
-1 feche o servidor com (ctrl + c)
+1: feche o servidor com (ctrl + c)
 
-2 Execute o comando para criar o link de storage:
+2: Execute o comando para criar o link de storage:
 
 php artisan storage:link
 
-3 Caso o CMD informe que o storage já existe, execute:
+3: Caso o CMD informe que o storage já existe, execute:
 
 rmdir public\storage
 
-Execute novamente 
+4: Execute novamente 
 
 php artisan storage:link
 
-Execute novamente
+5: Execute novamente
 
 php artisan serve
 
