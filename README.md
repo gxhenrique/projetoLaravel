@@ -15,6 +15,7 @@ apiKey = 2c19e0b6eb6342a996086d23ba949598
 2 = copy .env.example .env
 3 = php artisan key:generate
 4 = php artisan serve
+5 = php artisan storage:link
 
 4: Inicie o servidor local do Laravel
 
