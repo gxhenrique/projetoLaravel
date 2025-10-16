@@ -9,6 +9,8 @@ apiKey = 2c19e0b6eb6342a996086d23ba949598
 
 2: Navegue até a pasta do projeto via cmd
 
+#Instale algumes dependencias do projeto via cmd na pasta do projeto
+
 3: composer install
 3.1: copy .env.example .env
 3.2: php artisan key:generate
