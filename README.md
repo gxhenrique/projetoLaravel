@@ -5,7 +5,9 @@ Estou usando a api do site "https://www.voicerss.org/"
 Chave da api
 apiKey = 2c19e0b6eb6342a996086d23ba949598
 
-1: Clone ou baixe o projeto
+1: Baixe o projeto
+
+2: Descompactar o arquivo zip
 
 2: Navegue até a pasta do projeto via cmd
 
