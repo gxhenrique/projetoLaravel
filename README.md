@@ -22,7 +22,8 @@ php artisan serve
 
 "http://127.0.0.1:8000"
 
-Resoluão de algum problema com o gerador de voz
+------ Resoluão de algum problema com o gerador de voz ----
+------ Caso o gerador de voz não fucione -----
 
 1: feche o servidor com (ctrl + c)
 
